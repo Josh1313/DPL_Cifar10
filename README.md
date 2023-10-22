@@ -1,1 +1,1 @@
-# DPL_Cifar10
+In the workbooks, your objective is to enhance each notebook I've created. This is for practice and a great way to improve our skills. The primary aim is to enhance the models and achieve an accuracy of up to 80%, focusing on the structural aspects only. While advanced techniques can take you to 90% accuracy, I kindly request that you provide comments in the code. This way, we can better understand and appreciate the work. Please begin with the notebook having the lowest accuracy and gradually progress upward.
